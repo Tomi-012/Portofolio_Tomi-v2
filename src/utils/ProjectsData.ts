@@ -100,6 +100,15 @@ export const projectsData = [
   },
   {
     id: 12,
+    name: 'Parfume Lux',
+    imageUrl: '/img_projects/parfume_lux.png',
+    status: 'Website toko online parfum dengan desain elegan dan fitur katalog produk yang lengkap.',
+    tech: 'PHP, MySQL, Tailwind CSS, Javascript',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://parfume-lux.masrori.my.id/'
+  },
+  {
+    id: 13,
     name: 'Website PT.Cipta Hospital',
     imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
     status: 'I created this website to promote PT. Cipta Hospital, in terms of services, etc. and this is to complete a project for a college assignment.',
@@ -108,7 +117,7 @@ export const projectsData = [
     demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
   },
   {
-    id: 13,
+    id: 14,
     name: 'Login Register',
     imageUrl: '/img_projects/login-register.png',
     status: 'A responsive Login & Register interface implementation.',
