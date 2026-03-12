@@ -28,6 +28,15 @@ export const projectsData = [
   },
   {
     id: 4,
+    name: 'Website Portofolio V3 Yae',
+    imageUrl: '/img_projects/portofolio-thema-yae.png',
+    status: 'Latest version of my personal portfolio website with modern design and enhanced user experience.',
+    tech: 'React, Vite, Tailwind CSS, TypeScript',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://portofolio-tomi-v3-yae.vercel.app/'
+  },
+  {
+    id: 5,
     name: 'Website List Joki',
     imageUrl: 'https://masrori.my.id/fto_tmi/List_Joki.png',
     status: 'This website is created to offer game account maintenance services: daily login, leveling, and weekly events. Safe, fast, and reliable.',
@@ -36,7 +45,7 @@ export const projectsData = [
     demo: 'https://list-joki.vercel.app/'
   },
   {
-    id: 5,
+    id: 6,
     name: 'Website Shiraori Joki V2',
     imageUrl: '/img_projects/web-jasa-joki-v2.png',
     status: 'Second version of Shiraori Joki website with improved design and features for game account services.',
@@ -45,7 +54,7 @@ export const projectsData = [
     demo: 'https://web-shiraori-joki-v2.vercel.app/#testimoni'
   },
   {
-    id: 6,
+    id: 7,
     name: 'Project PKM',
     imageUrl: '/img_projects/project-pkm.png',
     status: 'PKM (Program Kreativitas Mahasiswa) project website showcasing student creativity and innovation.',
@@ -54,7 +63,7 @@ export const projectsData = [
     demo: 'https://project-pkm.vercel.app/'
   },
   {
-    id: 7,
+    id: 8,
     name: 'Dashboard E-Commerce',
     imageUrl: 'https://masrori.my.id/fto_tmi/Sumber%20Segar%20Dashboard.png',
     status: 'E-commerce dashboard for managing fresh products with complete features for inventory, sales, and reporting.',
@@ -63,7 +72,7 @@ export const projectsData = [
     demo: 'https://sumber-segar.com'
   },
   {
-    id: 8,
+    id: 9,
     name: 'Lumichan AI',
     imageUrl: '/img_projects/lumichan-ai.png',
     status: 'AI-powered chatbot application with intelligent conversation capabilities and modern user interface.',
@@ -72,7 +81,7 @@ export const projectsData = [
     demo: 'https://lumichan-ai.masrori.my.id/'
   },
   {
-    id: 9,
+    id: 10,
     name: 'Perpustakaan Digital',
     imageUrl: '/img_projects/perpustakaan.png',
     status: 'Digital library management system for organizing and managing book collections with modern interface.',
@@ -81,52 +90,7 @@ export const projectsData = [
     demo: 'https://perpus.masrori.my.id/'
   },
   {
-    id: 10,
-    name: 'Traffic RNN',
-    imageUrl: '/img_projects/trafic-rnn_e-learning-unpam.png',
-    status: 'Traffic prediction application using Recurrent Neural Network (RNN) for intelligent traffic analysis.',
-    tech: 'Python, TensorFlow, RNN, React, Vite, Tailwind CSS',
-    github: 'https://github.com/Tomi-012',
-    demo: 'https://traffic-rnn.vercel.app/'
-  },
-  {
     id: 11,
-    name: 'SawitMart',
-    imageUrl: '/img_projects/sawitmart.png',
-    status: 'Web application developed using Angular and Golang with SawitDB.',
-    tech: 'Angular, HTML, Golang, SawitDB, Typescript, Tailwind CSS',
-    github: 'https://github.com/Tomi-012',
-    demo: 'https://sawitmart.masrori.my.id/'
-  },
-  {
-    id: 12,
-    name: 'Parfume Lux',
-    imageUrl: '/img_projects/parfume_lux.png',
-    status: 'Website toko online parfum dengan desain elegan dan fitur katalog produk yang lengkap.',
-    tech: 'PHP, MySQL, Tailwind CSS, Javascript',
-    github: 'https://github.com/Tomi-012',
-    demo: 'https://parfume-lux.masrori.my.id/'
-  },
-  {
-    id: 13,
-    name: 'Website PT.Cipta Hospital',
-    imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
-    status: 'I created this website to promote PT. Cipta Hospital, in terms of services, etc. and this is to complete a project for a college assignment.',
-    tech: 'HTML, CSS, JavaScript, Bootstrap',
-    github: 'https://github.com/Tomi-012',
-    demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
-  },
-  {
-    id: 14,
-    name: 'Login Register',
-    imageUrl: '/img_projects/login-register.png',
-    status: 'A responsive Login & Register interface implementation.',
-    tech: 'HTML, JavaScript, PHP, Tailwind CSS',
-    github: 'https://github.com/Tomi-012',
-    demo: 'https://login-register-seven-gules.vercel.app/'
-  },
-  {
-    id: 15,
     name: 'Aplikasi Absensi Siswa',
     imageUrl: '/img_projects/Aplikasi Absensi Siswa.png',
     status: 'A web-based student attendance application to facilitate digital student attendance recording with complete features and modern interface.',
@@ -135,7 +99,7 @@ export const projectsData = [
     demo: 'https://app-absensi.masrori.my.id/'
   },
   {
-    id: 16,
+    id: 12,
     name: 'Aplikasi CBT Siswa',
     imageUrl: '/img_projects/Aplikasi CBT Siswa.png',
     status: 'A web-based Computer Based Test (CBT) student application for conducting online exams with question management and automatic grading features.',
@@ -144,12 +108,57 @@ export const projectsData = [
     demo: 'https://app-cbt.masrori.my.id/'
   },
   {
-    id: 17,
+    id: 13,
     name: 'MangaBurn',
     imageUrl: '/img_projects/Homepage Website Mangaburn.png',
     status: 'Modern manga & comic reading platform with complete features for comic management, bookmarking, reading history, and rating system.',
     tech: 'Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL, NextAuth.js',
     github: 'https://github.com/Tomi-012',
     demo: 'https://mangaburn.masrori.my.id/'
+  },
+  {
+    id: 14,
+    name: 'Traffic RNN',
+    imageUrl: '/img_projects/trafic-rnn_e-learning-unpam.png',
+    status: 'Traffic prediction application using Recurrent Neural Network (RNN) for intelligent traffic analysis.',
+    tech: 'Python, TensorFlow, RNN, React, Vite, Tailwind CSS',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://traffic-rnn.vercel.app/'
+  },
+  {
+    id: 15,
+    name: 'SawitMart',
+    imageUrl: '/img_projects/sawitmart.png',
+    status: 'Web application developed using Angular and Golang with SawitDB.',
+    tech: 'Angular, HTML, Golang, SawitDB, Typescript, Tailwind CSS',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://sawitmart.masrori.my.id/'
+  },
+  {
+    id: 16,
+    name: 'Parfume Lux',
+    imageUrl: '/img_projects/parfume_lux.png',
+    status: 'Online perfume store website with elegant design and complete product catalog features.',
+    tech: 'PHP, MySQL, Tailwind CSS, Javascript',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://parfume-lux.masrori.my.id/'
+  },
+  {
+    id: 17,
+    name: 'Website PT.Cipta Hospital',
+    imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
+    status: 'I created this website to promote PT. Cipta Hospital, in terms of services, etc. and this is to complete a project for a college assignment.',
+    tech: 'HTML, CSS, JavaScript, Bootstrap',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
+  },
+  {
+    id: 18,
+    name: 'Login Register',
+    imageUrl: '/img_projects/login-register.png',
+    status: 'A responsive Login & Register interface implementation.',
+    tech: 'HTML, JavaScript, PHP, Tailwind CSS',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://login-register-seven-gules.vercel.app/'
   }
 ];
