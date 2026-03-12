@@ -124,5 +124,32 @@ export const projectsData = [
     tech: 'HTML, JavaScript, PHP, Tailwind CSS',
     github: 'https://github.com/Tomi-012',
     demo: 'https://login-register-seven-gules.vercel.app/'
+  },
+  {
+    id: 15,
+    name: 'Aplikasi Absensi Siswa',
+    imageUrl: '/img_projects/Aplikasi Absensi Siswa.png',
+    status: 'A web-based student attendance application to facilitate digital student attendance recording with complete features and modern interface.',
+    tech: 'PHP, Tailwind CSS, MySQL',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://app-absensi.masrori.my.id/'
+  },
+  {
+    id: 16,
+    name: 'Aplikasi CBT Siswa',
+    imageUrl: '/img_projects/Aplikasi CBT Siswa.png',
+    status: 'A web-based Computer Based Test (CBT) student application for conducting online exams with question management and automatic grading features.',
+    tech: 'PHP, Tailwind CSS, MySQL',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://app-cbt.masrori.my.id/'
+  },
+  {
+    id: 17,
+    name: 'MangaBurn',
+    imageUrl: '/img_projects/Homepage Website Mangaburn.png',
+    status: 'Modern manga & comic reading platform with complete features for comic management, bookmarking, reading history, and rating system.',
+    tech: 'Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL, NextAuth.js',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://mangaburn.masrori.my.id/'
   }
 ];
