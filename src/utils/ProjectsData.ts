@@ -5,7 +5,7 @@ export const projectsData = [
     imageUrl: 'https://masrori.my.id/fto_tmi/Portfolio_Tomi.png',
     status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
     tech: 'VueJS, HTML, CSS, JavaScript',
-    github: 'https://github.com/Tomi-012',
+    github: 'https://github.com/Tomi-012/Portfolio_Tomi',
     demo: 'https://portfolio-tomi.vercel.app/'
   },
   {
@@ -14,7 +14,7 @@ export const projectsData = [
     imageUrl: 'https://masrori.my.id/fto_tmi/portofolio-v2.png',
     status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
     tech: 'React, Vite, Tailwind CSS',
-    github: 'https://github.com/Tomi-012',
+    github: 'https://github.com/Tomi-012/Portofolio_Tomi-v2',
     demo: 'https://portofolio-tomi-v2.vercel.app/'
   },
   {
@@ -59,7 +59,7 @@ export const projectsData = [
     imageUrl: '/img_projects/project-pkm.png',
     status: 'PKM (Program Kreativitas Mahasiswa) project website showcasing student creativity and innovation.',
     tech: 'React, Next.js, Tailwind CSS, TypeScript',
-    github: 'https://github.com/Tomi-012',
+    github: 'https://github.com/Tomi-012/Project-PKM',
     demo: 'https://project-pkm.vercel.app/'
   },
   {
@@ -167,16 +167,25 @@ export const projectsData = [
     imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
     status: 'I created this website to promote PT. Cipta Hospital, in terms of services, etc. and this is to complete a project for a college assignment.',
     tech: 'HTML, CSS, JavaScript, Bootstrap',
-    github: 'https://github.com/Tomi-012',
+    github: 'https://github.com/Tomi-012/Web_Rs.PT.Cipta-Hospital',
     demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
   },
   {
     id: 20,
+    name: 'Motion Tabs',
+    imageUrl: '/img_projects/Motion-tabs.png',
+    status: 'Interactive navigation menu animation implementation using pure HTML, CSS, and JavaScript.',
+    tech: 'HTML, CSS, JavaScript',
+    github: 'https://github.com/Tomi-012/motion-tabs-nav',
+    demo: 'https://motion-tabs-nav.vercel.app'
+  },
+  {
+    id: 21,
     name: 'Login Register',
     imageUrl: '/img_projects/login-register.png',
     status: 'A responsive Login & Register interface implementation.',
     tech: 'HTML, JavaScript, PHP, Tailwind CSS',
-    github: 'https://github.com/Tomi-012',
+    github: 'https://github.com/Tomi-012/Login-Register',
     demo: 'https://login-register-seven-gules.vercel.app/'
   }
 ];
