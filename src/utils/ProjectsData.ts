@@ -118,6 +118,15 @@ export const projectsData = [
   },
   {
     id: 14,
+    name: 'AnimeBurn',
+    imageUrl: '/img_projects/Homepage Website AnimeBurn.png',
+    status: 'Anime streaming platform with complete features like bookmarking, watch history, and download mode.',
+    tech: 'React, Next.js App Router, Tailwind CSS, Framer Motion, MySQL, Auth.js (NextAuth v5)',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://animeburn.masrori.my.id'
+  },
+  {
+    id: 15,
     name: 'Traffic RNN',
     imageUrl: '/img_projects/trafic-rnn_e-learning-unpam.png',
     status: 'Traffic prediction application using Recurrent Neural Network (RNN) for intelligent traffic analysis.',
@@ -126,7 +135,16 @@ export const projectsData = [
     demo: 'https://traffic-rnn.vercel.app/'
   },
   {
-    id: 15,
+    id: 16,
+    name: 'SPK Calculator',
+    imageUrl: '/img_projects/SPK Calculator.png',
+    status: 'Multi-method Decision Support System calculator with detailed calculation logs.',
+    tech: 'HTML, CSS, JavaScript',
+    github: 'https://github.com/Tomi-012',
+    demo: 'https://spk-calculator.vercel.app'
+  },
+  {
+    id: 17,
     name: 'SawitMart',
     imageUrl: '/img_projects/sawitmart.png',
     status: 'Web application developed using Angular and Golang with SawitDB.',
@@ -135,7 +153,7 @@ export const projectsData = [
     demo: 'https://sawitmart.masrori.my.id/'
   },
   {
-    id: 16,
+    id: 18,
     name: 'Parfume Lux',
     imageUrl: '/img_projects/parfume_lux.png',
     status: 'Online perfume store website with elegant design and complete product catalog features.',
@@ -144,7 +162,7 @@ export const projectsData = [
     demo: 'https://parfume-lux.masrori.my.id/'
   },
   {
-    id: 17,
+    id: 19,
     name: 'Website PT.Cipta Hospital',
     imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
     status: 'I created this website to promote PT. Cipta Hospital, in terms of services, etc. and this is to complete a project for a college assignment.',
@@ -153,7 +171,7 @@ export const projectsData = [
     demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
   },
   {
-    id: 18,
+    id: 20,
     name: 'Login Register',
     imageUrl: '/img_projects/login-register.png',
     status: 'A responsive Login & Register interface implementation.',
